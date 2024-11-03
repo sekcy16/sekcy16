@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sekcy16&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=sekcy16&icon=4&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
